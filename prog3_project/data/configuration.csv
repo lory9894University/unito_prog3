@@ -1,0 +1,5 @@
+variable,value
+users,data/login.csv
+logs,data/logs.txt
+mailLastId,9
+usersDir,data

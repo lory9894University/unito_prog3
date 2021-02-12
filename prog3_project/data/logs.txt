@@ -1,0 +1,19 @@
+11/02/2021 11:09:01:lorenzo@moji.it Authenticated from: /127.0.0.1
+11/02/2021 11:09:22:admin@moji.it Authenticated from: /127.0.0.1
+11/02/2021 11:09:41:user@moji.it Authenticated from: /127.0.0.1
+11/02/2021 11:11:09:lorenzo@moji.it Authenticated from: /127.0.0.1
+11/02/2021 11:11:21:admin@moji.it Authenticated from: /127.0.0.1
+11/02/2021 11:11:36:user@moji.it Authenticated from: /127.0.0.1
+11/02/2021 11:12:52:user lorenzo@moji.it sent 1/1 email
+11/02/2021 11:14:26:user admin@moji.it sent 0/1 email
+11/02/2021 11:14:53:user admin@moji.it sent 1/1 email
+11/02/2021 11:21:32:user admin@moji.it sent 2/2 email
+11/02/2021 11:26:02:lorenzo@moji.it Authenticated from: /127.0.0.1
+11/02/2021 11:26:15:admin@moji.it Authenticated from: /127.0.0.1
+11/02/2021 11:26:27:user@moji.it Authenticated from: /127.0.0.1
+11/02/2021 11:27:15:user lorenzo@moji.it sent 2/2 email
+11/02/2021 11:28:17:users user@moji.it deleted 1 emails
+11/02/2021 11:28:57:user admin@moji.it sent 2/2 email
+11/02/2021 11:29:17:user user@moji.it sent 1/1 email
+11/02/2021 11:30:21:user lorenzo@moji.it sent 0/1 email
+11/02/2021 11:30:47:users user@moji.it deleted 2 emails

@@ -1,0 +1,13 @@
+https://stackoverflow.com/questions/10751271/accessing-fxml-controller-class
+creare diversi controller per gestire diverse parti dell'interfaccia
+
+https://stackoverflow.com/questions/26195243/creating-an-observable-list-collection/26195354
+per gestire le Observable List
+
+https://stackoverflow.com/questions/52309901/javafx-bind-liststring-to-listview-by-reference
+per gestire le listView
+
+https://stackoverflow.com/questions/20735797/javafx-how-can-i-add-a-container-in-an-anchor-pane
+per inserire nuove parti di interfaccia (scritte in xml) all'interno di altri container.
+questa soluzione di fare load del file xml all'interno del controller che gestisce la schermata "padre" non mi piace molto, se qualcuno trova una alternativa é un figo
+
